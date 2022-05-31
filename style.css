@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    margin-top: 15px;
+    background-color: darkgrey;
+    color: white;
+}
+
+button{
+    color: darkturquoise;
+    background-color: #ffffff;
+    font-size: larger;
+    margin-left: 10px;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+
+ul {
+    list-style-type: none;
+  }
